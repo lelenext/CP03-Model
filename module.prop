@@ -1,0 +1,18 @@
+# Identifier 唯一標識符
+id=lelenext.cp03model
+
+# Name 名稱
+name=coolpad COOL 20 (CP03) Model
+
+# Version 版本號
+version=0.3
+versionCode=3
+
+# Author 作者
+author=lelenext
+
+# Description 描述
+description=假裝設備為酷派COOL20 (CP03)
+
+# UpdateJson 更新
+# updateJson=<url> (optional)
