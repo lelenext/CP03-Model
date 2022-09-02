@@ -1,0 +1,17 @@
+# Board model 主板型號
+ro.product.board=k69v1_64
+
+# Brand 品牌
+ro.product.brand=Coolpad
+
+# Codename for the developer 開發代號
+ro.product.device=k69v1_64
+
+# Manufacturer 製造商
+ro.product.manufacturer=Coolpad
+
+# Model name for sales 銷售型號
+ro.product.model=CP03
+
+# Name of overall product 縂產品名稱
+ro.product.name=full_k69v1_64
